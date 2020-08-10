@@ -18,11 +18,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iusam-chong&layout=compact&hide=html" alt="iusam-chong" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iusam-chong&show_icons=true" alt="iusam-chong" />
-
-
 <!--
 **iusam-chong/iusam-chong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
