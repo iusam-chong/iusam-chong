@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iusam-chong" alt="iusam-chong" /> </p>
 
 <p align="left">
