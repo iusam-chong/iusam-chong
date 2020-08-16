@@ -1,7 +1,7 @@
 ### Hello there ! 👋
 
 ### Recent releases
-* [JavaScript 作業](https://github.com/iusam-chong/Homework/tree/master/HW-0814-JS) - 2020/08/14 
+* [JavaScript 作業](https://github.com/iusam-chong/Homework/tree/master/HW-0814-JS) - 2020/08/14 等等，還沒寫好！
 
 
 <!--
