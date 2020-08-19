@@ -1,6 +1,7 @@
 ### Hello there ! 👋
 
 ### Recent releases
+* [PHP 作業](https://github.com/iusam-chong/Homework/tree/master/HW-0818-PHP) - 2020/08/18
 * [JavaScript 作業](https://github.com/iusam-chong/Homework/tree/master/HW-0814-JS) - 2020/08/14
 
 <!--
