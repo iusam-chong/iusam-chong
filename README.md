@@ -1,4 +1,4 @@
-### Hello there ! 👋
+### Hello there ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ### Recent releases
 * [PHP 作業](https://github.com/iusam-chong/Homework/tree/master/HW-0818-PHP) - 2020/08/18
