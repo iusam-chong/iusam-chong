@@ -1,6 +1,9 @@
 ### Hello there ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ### Recent releases
+* [PID 購物車](https://github.com/iusam-chong/PID-Assignment) - 2020/08/24
+* [RD5 網銀系統](https://github.com/iusam-chong/RD5-Assignment) - 2020/08/24
+* [RD1 個人氣象站](https://github.com/iusam-chong/RD1-Assignment) - 2020/08/24
 * [PHP 作業](https://github.com/iusam-chong/Homework/tree/master/HW-0818-PHP) - 2020/08/18
 * [JavaScript 作業](https://github.com/iusam-chong/Homework/tree/master/HW-0814-JS) - 2020/08/14
 
